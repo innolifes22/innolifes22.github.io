@@ -16,14 +16,14 @@
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ExtraBrain"
+title                    : "AA & LINUX"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sammy Baek"
-description              : "Mainly IT Tech Blog. Front-End, Back-End, Deeplearning, Linux etc. or Anything I'm interested in."
+name                     : "KyungHun.Kim"
+description              : "Mainly IT Tech Blog. Front-End, Back-End, Linux etc. or Anything I'm interested in."
 url                      : "https://innolifes22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/seungwubaek/seungwubaek.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/innolifes22/innolifes22.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,14 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "Sammy Baek"
-  name-link        : "https://seungwubaek.github.io/about/"
+  name-link        : "https://innolifes22.github.io/about/"
   avatar           : "/assets/images/2020-08-28-18-37-15-269.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  avatar-link      : "https://seungwubaek.github.io/about/"
+  avatar-link      : "https://innolifes22.github.io/about/"
   # avatar           : "/assets/images/christmas2020/my_face.jpg"  # for 2020 X-mas Theme
   # avatar: "/assets/images/happy_new_year_2021/my_face.jpg"  # for 2021 Happy New Year
-  bio              : "Data Scientist & Software Engineer.<br>CTO of Mose People"
+  bio              : "Application Architech & Software Engineer.<br> CEO of Calli T-Shirt"
   location         : "Seoul, Rep. of Korea"
-  email            : "whitesw01@gmail.com"
+  email            : "innolifes22@gmail.com"
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
@@ -119,7 +119,7 @@ author:
       itemprop: "sameAs"
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/seungwubaek"
+      url: "https://github.com/innolifes22"
       itemprop: "sameAs"
     - label: ""
       icon: "fab fa-fw fa-instagram"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/seungwubaek"
+      url: "https://github.com/innolifes22"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: ""
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sammy_baek"
+      url: "https://www.instagram.com/sd95380"
 
 
 # Reading Files
@@ -328,4 +328,4 @@ footer_scripts:
 
 # Global Variables
 gdrive_url_prefix: "https://drive.google.com/uc?export=view&id="
-raw_github_url_prefix: "https://raw.githubusercontent.com/seungwubaek/seungwubaek.github.io/master"
+raw_github_url_prefix: "https://raw.githubusercontent.com/innolifes22/innolifes22.github.io/master"
