@@ -99,5 +99,3 @@ main-sidebar:
       url: "/tools/numpy/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Writing"
-    url: "/writing/"
