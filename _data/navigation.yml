@@ -99,11 +99,5 @@ main-sidebar:
       url: "/tools/numpy/"
   - title: "Blog"
     url: "/blog/"
-    children:
-    - title: "Tips"
-      url: "/blog/tips/"
   - title: "Writing"
     url: "/writing/"
-    children:
-    - title: "Poem"
-      url: "/writing/poem/"
