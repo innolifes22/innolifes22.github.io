@@ -16,7 +16,7 @@
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "AA & LINUX"
+title                    : "김경훈의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KyungHun.Kim"
