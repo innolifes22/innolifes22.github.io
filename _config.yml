@@ -16,7 +16,7 @@
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "AA & LINUX"
+title                    : "김경훈의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KyungHun.Kim"
@@ -115,7 +115,7 @@ author:
       # url: "https://twitter.com/"
     - label: ""
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/sd95380"
+      url: "https://www.facebook.com/profile.php?id=1187033125"
       itemprop: "sameAs"
     - label: ""
       icon: "fab fa-fw fa-github"
