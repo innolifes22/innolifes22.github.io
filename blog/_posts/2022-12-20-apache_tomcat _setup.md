@@ -1,3 +1,11 @@
+---
+layout: single
+title: "[Tomcat 내부 구조와 설정파일] - [18] test upload"
+post-order: 18
+date: "2021-09-02 16:37:00 +0900"
+last_modified_at: "2022-12-20 16:47:00 +0900"
+---
+
 # [톰캣서버]Tomcat 내부 구조와 설정파일
 
 ## 클라이언트가 요청을 보내면 톰캣 내부에서는 어떤 일이 일어날까?
@@ -21,4 +29,3 @@ Context안에 있는 Servlet이 여러개 있는데 각 Servlet은 쉽게 Contro
 프로토콜이 프로세스를 처리해서 Engline(Catalina)을 거치고 요청 받은 Host안의 Context까지 찾은 다음 해당 Servlet을 호출한다.
 Dispatcher Servlet이 요청받은 Controller의 method를 찾아 호출한다.
 ````
-  
