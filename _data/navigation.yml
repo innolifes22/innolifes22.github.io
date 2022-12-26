@@ -41,6 +41,8 @@ main-sidebar:
         url: "/computing/linux/commands/"
       - title: "Config"
         url: "/computing/linux/config/"
+      - title: "GCP"
+        url: "/computing/linux/GCP/"
     - title: "Programming"
       url: "/computing/programming/"
       children:
