@@ -55,6 +55,11 @@ main-sidebar:
       url: "/deep-learning/computer-vision/"
     - title: "Natural Language Processing"
       url: "/deep-learning/natural-language-processing/"
+  - title: "REDMINE"
+    url: "/redmine/"
+    children:
+    - title: "redmine Basic Guide"
+      url: "/redmine/basic-guide/"
   - title: "Mathematics"
     url: "/mathematics/"
     children:
