@@ -48,6 +48,18 @@ main-sidebar:
       children:
       - title: "Python"
         url: "/computing/programming/python/"
+  - title: "redmine"
+    url: "/redmine/"
+    children:
+    - title: "common-configuration"
+      url: "/redmin/common-configuration/"
+      children:
+      - title: "projects"
+        url: "/redmin/common-configuration/projects"
+      - title: "users"
+        url: "/redmin/common-configuration/users"
+      - title: "groups"
+        url: "/redmin/common-configuration/groups"
   - title: "Deep Learning"
     url: "/deep-learning/"
     children:
@@ -55,11 +67,7 @@ main-sidebar:
       url: "/deep-learning/computer-vision/"
     - title: "Natural Language Processing"
       url: "/deep-learning/natural-language-processing/"
-  - title: "REDMINE"
-    url: "/redmine/"
-    children:
-    - title: "redmine Basic Guide"
-      url: "/redmine/basic-guide/"
+
   - title: "Mathematics"
     url: "/mathematics/"
     children:
